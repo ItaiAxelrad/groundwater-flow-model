@@ -21,7 +21,7 @@ Aquifer Characteristics
 Pumping Well Characteristics
 
 - Located at center node (50 meters from either side)
-- Pumping Rate of 1 m3/day (constant beginning at  t=0)
+- Pumping Rate of 1 m3/day (constant beginning at t=0)
 
 Boundary Conditions
 
@@ -94,13 +94,13 @@ title('Matlab Head Distribution')
 
 ### Time
 
-![t=0](images/image1.jpg)
+![t=0](images/t0.jpg)
 
-![t=3](images/image2.jpg)
+![t=3](images/t3.jpg)
 
-![t=20](images/image3.jpg)
+![t=20](images/t20.jpg)
 
-![t=100](images/image4.jpg)
+![t=100](images/t100.jpg)
 
 ### Implicit Difference
 
